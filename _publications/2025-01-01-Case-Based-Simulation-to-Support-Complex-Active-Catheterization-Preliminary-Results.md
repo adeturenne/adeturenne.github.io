@@ -1,6 +1,7 @@
 ---
 title: "Case-Based Simulation to Support Complex Active Catheterization: Preliminary Results"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Case-Based-Simulation-to-Support-Complex-Active-Catheterization-Preliminary-Results
 date: 2025-01-01
 venue: 'IRBM'

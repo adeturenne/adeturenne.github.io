@@ -1,6 +1,7 @@
 ---
 title: "Cascaded U-net for segmentation of endovascular paths in mechanical thrombectomy"
 collection: publications
+category: conferences
 permalink: /publication/2022-01-01-Cascaded-U-net-for-segmentation-of-endovascular-paths-in-mechanical-thrombectomy
 date: 2022-01-01
 venue: 'In the proceedings of Medical imaging 2022: image-guided procedures, robotic interventions, and modeling'

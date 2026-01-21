@@ -1,6 +1,7 @@
 ---
 title: "Statistical shape model of vessel centerline for endovascular paths comparison in mechanical thrombectomy"
 collection: publications
+category: conferences
 permalink: /publication/2021-01-01-Statistical-shape-model-of-vessel-centerline-for-endovascular-paths-comparison-in-mechanical-thrombectomy
 date: 2021-01-01
 venue: 'In the proceedings of 2021 43rd Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC)'

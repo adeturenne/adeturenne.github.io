@@ -1,6 +1,7 @@
 ---
 title: "Super-resolution of 4D flow MRI through inverse problem explicit solving"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Super-resolution-of-4D-flow-MRI-through-inverse-problem-explicit-solving
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2509.21071'
