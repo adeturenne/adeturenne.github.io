@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Aurélien de Turenne"
   pronouns         : # example: "she/her"  
-  bio              : "Associate professor at the Université de Toulouse / IRIT"
+  bio              : "Associate professor"
   location         : "Toulouse"
-  employer         : "Université de Toulouse"
+  employer         : "Université de Toulouse & IRIT"
   uri              : # URL
   email            : "aurelien.de-turenne@irit.fr" 
 
