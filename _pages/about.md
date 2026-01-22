@@ -14,7 +14,5 @@ More recently, I have been developing a growing interest in quantum computing fo
 
 I received my PhD in 2023 from Université de Rennes , conducted at the LTSI laboratory, where my doctoral research focused on MRI segmentation and multimodal image registration (MRI and fluoroscopy) to support endovascular navigation in the context of mechanical thrombectomy. From 2023 to 2024, I worked as a postdoctoral researcher at Université de Rennes / LTSI, where I investigated registration methods for 4D Flow MRI. Since 2024, I have been an Associate Professor at Université de Toulouse and IRIT.
 
-A data-driven personal website
-======
 
 
