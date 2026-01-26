@@ -42,9 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Publications: réduire uniquement le titre des items (papiers) */
+/* Publications: titre = même taille que le texte */
 .archive__item-title,
 .archive__item-title a {
-  font-size: 1.05rem;  /* ajuste: 1rem / 1.1rem */
-  line-height: 1.25;
+  font-size: inherit;
 }
+
