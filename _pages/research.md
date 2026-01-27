@@ -19,10 +19,10 @@ Brief description of your main research themes. TEST 16
 ## Supervision
 
 ### Doctorants
-
-**Anna Barseghyan** (Since 2025) | *Informatique quantique et problèmes inverses*
-<blockquote style="margin-top: -10px; margin-bottom: 20px;">Encadrant · Dir. : Denis Kouamé, Co-dir. : Bertrand Georgeot</blockquote>
+**2025–Now | Anna Barseghyan** – *Quantum computing and inverse problems*
+<blockquote style="margin-top: -10px; margin-bottom: 20px;">Supervisor · Dir. : Denis Kouamé, Co-dir. : Bertrand Georgeot</blockquote>
 
 ### Stagiaires (MSc)
-* **2024** : Nom de l'étudiant (M2) – *Titre du stage*.
-* **2023** : Nom de l'étudiant (M2) – *Titre du stage*.
+**2024 | Nom de l'Étudiant** – *Titre du stage M2*
+<blockquote style="margin-top: -10px; margin-bottom: 20px;">Encadrant principal</blockquote>
+
