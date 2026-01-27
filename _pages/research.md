@@ -12,8 +12,8 @@ Brief description of your main research themes.
 
 ## Projects
 
-| 2024–2025 | **OMBEDA** – Optimisation Multimodale… |
-|           | *Principal Investigator · FLI* |
+| 2024–2025 | **OMBEDA** – Optimisation Multimodale de l’extraction de Biomarqueurs prédictifs de l’Evolution de la Dissection Aortique | France Life Imaging (FLI) Grant 
+|           | Principal Investigator |
 
 
 
