@@ -96,3 +96,15 @@
   white-space: nowrap !important;
   padding-right: 1rem !important;
 }
+
+/* =========================================================
+   Research page: remove table wrapper styling
+   ========================================================= */
+
+.research-page .page__content .table-wrapper {
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+}
