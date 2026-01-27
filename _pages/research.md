@@ -12,8 +12,6 @@ Brief description of your main research themes. test
 
 ## Projects
 
-|  |  |
-|---|---|
 | 2024–2025 | **OMBEDA** – Optimisation Multimodale de l’extraction de Biomarqueurs prédictifs de l’Evolution de la Dissection Aortique |
 |           | *Principal Investigator · France Life Imaging (FLI) grant* |
 | 2024      | Project name – short description |
