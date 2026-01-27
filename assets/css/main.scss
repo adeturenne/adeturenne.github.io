@@ -58,3 +58,38 @@
   padding: 0.2rem 0;
 }
 
+/* Research page: make markdown tables look like aligned lists */
+.research-page table {
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-collapse: collapse !important;
+}
+
+.research-page table thead {
+  display: none !important; /* hide header row if present */
+}
+
+.research-page table tr,
+.research-page table th,
+.research-page table td {
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.research-page table tbody tr:nth-child(odd),
+.research-page table tbody tr:nth-child(even) {
+  background: transparent !important; /* kill zebra stripes */
+}
+
+.research-page table td {
+  padding: 0.15rem 0 !important;
+  vertical-align: top;
+}
+
+.research-page table td:first-child {
+  width: 7.5rem;
+  white-space: nowrap;
+  padding-right: 1rem !important;
+}
+
