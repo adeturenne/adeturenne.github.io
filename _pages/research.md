@@ -24,5 +24,5 @@ Brief description of your main research themes. TEST 16
 
 ### MSc Students
 **2022 | Mariane Djoko-Negue** – *Image processing for endovascular navigation support*
-<blockquote style="margin-top: -10px; margin-bottom: 20px;">Co-supervisor · Co-supervisor: Pascal Haigron</blockquote>
+<blockquote style="margin-top: -10px; margin-bottom: 20px;">Co-supervisor · Jointly with Pascal Haigron</blockquote>
 
