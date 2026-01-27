@@ -5,7 +5,7 @@
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -48,48 +48,47 @@
   font-size: inherit;
 }
 
-.research-page table {
-  border: none;
-}
+/* =========================================================
+   Research page: make tables look like aligned lists
+   (no borders, no header, no zebra stripes)
+   ========================================================= */
 
-.research-page table th,
-.research-page table td {
-  border: none;
-  padding: 0.2rem 0;
-}
-
-/* Research page: make markdown tables look like aligned lists */
-.research-page table {
+.research-page .page__content table,
+.research-page .page__content table * {
   border: 0 !important;
-  background: transparent !important;
+  outline: 0 !important;
   box-shadow: none !important;
+}
+
+.research-page .page__content table {
   border-collapse: collapse !important;
-}
-
-.research-page table thead {
-  display: none !important; /* hide header row if present */
-}
-
-.research-page table tr,
-.research-page table th,
-.research-page table td {
-  border: 0 !important;
+  border-spacing: 0 !important;
   background: transparent !important;
 }
 
-.research-page table tbody tr:nth-child(odd),
-.research-page table tbody tr:nth-child(even) {
-  background: transparent !important; /* kill zebra stripes */
+.research-page .page__content table thead {
+  display: none !important;
 }
 
-.research-page table td {
+.research-page .page__content table tr,
+.research-page .page__content table th,
+.research-page .page__content table td {
+  background: transparent !important;
+}
+
+.research-page .page__content table tbody tr:nth-child(odd),
+.research-page .page__content table tbody tr:nth-child(even) {
+  background: transparent !important;
+}
+
+.research-page .page__content table td {
   padding: 0.15rem 0 !important;
-  vertical-align: top;
+  vertical-align: top !important;
 }
 
-.research-page table td:first-child {
+/* Year column */
+.research-page .page__content table td:first-child {
   width: 7.5rem;
   white-space: nowrap;
   padding-right: 1rem !important;
 }
-
