@@ -18,11 +18,11 @@ Brief description of your main research themes. TEST 16
   
 ## Supervision
 
-### Doctorants
+### PhD Students
 **2025–Now | Anna Barseghyan** – *Quantum computing and inverse problems*
-<blockquote style="margin-top: -10px; margin-bottom: 20px;">Supervisor · Dir. : Denis Kouamé, Co-dir. : Bertrand Georgeot</blockquote>
+<blockquote style="margin-top: -10px; margin-bottom: 20px;">Supervisor · Director: Denis Kouamé, Co-director: Bertrand Georgeot</blockquote>
 
-### Stagiaires (MSc)
-**2024 | Nom de l'Étudiant** – *Titre du stage M2*
-<blockquote style="margin-top: -10px; margin-bottom: 20px;">Encadrant principal</blockquote>
+### MSc Students
+**2022 | Mariane Djoko-Negue** – *Image processing for endovascular navigation support*
+<blockquote style="margin-top: -10px; margin-bottom: 20px;">Co-supervisor · Co-supervisor: Pascal Haigron</blockquote>
 
